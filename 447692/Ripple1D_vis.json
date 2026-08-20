@@ -1,5 +1,5 @@
 {
-    "location": "MultiModelFIM",
+    "location": "Ripple1D",
     "details": {
         "date_created": "August 2026",
         "contact_name": "Pitamber",
@@ -12,8 +12,8 @@
     "gauge_info": {
         "river": "447692",
         "gauge_id": "NWM-447692",
-        "latitude": 30.94265,
-        "longitude": -87.33585,
+        "latitude": 30.94267,
+        "longitude": -87.33588,
         "flood_level": "",
         "last_reported_value": "",
         "last_reported_time": ""
@@ -182,7 +182,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-1-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-1-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 83.0,
@@ -191,7 +191,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-1-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-1-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 83.0,
@@ -205,7 +205,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-2-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-2-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 84.0,
@@ -214,7 +214,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-2-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-2-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 84.0,
@@ -223,7 +223,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-2-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-2-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 84.0,
@@ -237,7 +237,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 85.0,
@@ -246,7 +246,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 85.0,
@@ -255,7 +255,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 85.0,
@@ -264,7 +264,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-3-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": 85.0,
@@ -278,7 +278,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 86.0,
@@ -287,7 +287,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 86.0,
@@ -296,7 +296,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 86.0,
@@ -305,7 +305,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": 86.0,
@@ -314,7 +314,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-EXT-2540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-DEP-2540.tif",
                     "stage": null,
                     "discharge": 2540.0,
                     "downstream_wse": 86.0,
@@ -323,7 +323,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-EXT-3122.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-4-DEP-3122.tif",
                     "stage": null,
                     "discharge": 3122.0,
                     "downstream_wse": 86.0,
@@ -337,7 +337,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 87.0,
@@ -346,7 +346,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 87.0,
@@ -355,7 +355,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 87.0,
@@ -364,7 +364,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": 87.0,
@@ -373,7 +373,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-2540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-2540.tif",
                     "stage": null,
                     "discharge": 2540.0,
                     "downstream_wse": 87.0,
@@ -382,7 +382,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-3122.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-3122.tif",
                     "stage": null,
                     "discharge": 3122.0,
                     "downstream_wse": 87.0,
@@ -391,7 +391,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-3720.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-3720.tif",
                     "stage": null,
                     "discharge": 3720.0,
                     "downstream_wse": 87.0,
@@ -400,7 +400,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-EXT-4318.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-5-DEP-4318.tif",
                     "stage": null,
                     "discharge": 4318.0,
                     "downstream_wse": 87.0,
@@ -414,7 +414,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 88.0,
@@ -423,7 +423,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 88.0,
@@ -432,7 +432,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 88.0,
@@ -441,7 +441,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": 88.0,
@@ -450,7 +450,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-2540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-2540.tif",
                     "stage": null,
                     "discharge": 2540.0,
                     "downstream_wse": 88.0,
@@ -459,7 +459,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-3122.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-3122.tif",
                     "stage": null,
                     "discharge": 3122.0,
                     "downstream_wse": 88.0,
@@ -468,7 +468,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-3720.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-3720.tif",
                     "stage": null,
                     "discharge": 3720.0,
                     "downstream_wse": 88.0,
@@ -477,7 +477,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-4318.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-4318.tif",
                     "stage": null,
                     "discharge": 4318.0,
                     "downstream_wse": 88.0,
@@ -486,7 +486,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-EXT-5150.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-6-DEP-5150.tif",
                     "stage": null,
                     "discharge": 5150.0,
                     "downstream_wse": 88.0,
@@ -500,7 +500,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 89.0,
@@ -509,7 +509,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 89.0,
@@ -518,7 +518,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 89.0,
@@ -527,7 +527,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": 89.0,
@@ -536,7 +536,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-2540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-2540.tif",
                     "stage": null,
                     "discharge": 2540.0,
                     "downstream_wse": 89.0,
@@ -545,7 +545,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-3122.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-3122.tif",
                     "stage": null,
                     "discharge": 3122.0,
                     "downstream_wse": 89.0,
@@ -554,7 +554,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-3720.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-3720.tif",
                     "stage": null,
                     "discharge": 3720.0,
                     "downstream_wse": 89.0,
@@ -563,7 +563,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-4318.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-4318.tif",
                     "stage": null,
                     "discharge": 4318.0,
                     "downstream_wse": 89.0,
@@ -572,7 +572,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-5150.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-5150.tif",
                     "stage": null,
                     "discharge": 5150.0,
                     "downstream_wse": 89.0,
@@ -581,7 +581,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-5987.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-5987.tif",
                     "stage": null,
                     "discharge": 5987.0,
                     "downstream_wse": 89.0,
@@ -590,7 +590,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-EXT-6824.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-7-DEP-6824.tif",
                     "stage": null,
                     "discharge": 6824.0,
                     "downstream_wse": 89.0,
@@ -604,7 +604,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": 90.0,
@@ -613,7 +613,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": 90.0,
@@ -622,7 +622,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": 90.0,
@@ -631,7 +631,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": 90.0,
@@ -640,7 +640,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-2540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-2540.tif",
                     "stage": null,
                     "discharge": 2540.0,
                     "downstream_wse": 90.0,
@@ -649,7 +649,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-3122.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-3122.tif",
                     "stage": null,
                     "discharge": 3122.0,
                     "downstream_wse": 90.0,
@@ -658,7 +658,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-3720.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-3720.tif",
                     "stage": null,
                     "discharge": 3720.0,
                     "downstream_wse": 90.0,
@@ -667,7 +667,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-4318.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-4318.tif",
                     "stage": null,
                     "discharge": 4318.0,
                     "downstream_wse": 90.0,
@@ -676,7 +676,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-5150.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-5150.tif",
                     "stage": null,
                     "discharge": 5150.0,
                     "downstream_wse": 90.0,
@@ -685,7 +685,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-5987.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-5987.tif",
                     "stage": null,
                     "discharge": 5987.0,
                     "downstream_wse": 90.0,
@@ -694,7 +694,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-6824.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-6824.tif",
                     "stage": null,
                     "discharge": 6824.0,
                     "downstream_wse": 90.0,
@@ -703,7 +703,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-EXT-7661.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-8-DEP-7661.tif",
                     "stage": null,
                     "discharge": 7661.0,
                     "downstream_wse": 90.0,
@@ -717,7 +717,7 @@
             "scenario_list": [
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-982.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-982.tif",
                     "stage": null,
                     "discharge": 982.0,
                     "downstream_wse": null,
@@ -726,7 +726,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-1141.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-1141.tif",
                     "stage": null,
                     "discharge": 1141.0,
                     "downstream_wse": null,
@@ -735,7 +735,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-1559.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-1559.tif",
                     "stage": null,
                     "discharge": 1559.0,
                     "downstream_wse": null,
@@ -744,7 +744,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-2017.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-2017.tif",
                     "stage": null,
                     "discharge": 2017.0,
                     "downstream_wse": null,
@@ -753,7 +753,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-2540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-2540.tif",
                     "stage": null,
                     "discharge": 2540.0,
                     "downstream_wse": null,
@@ -762,7 +762,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-3122.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-3122.tif",
                     "stage": null,
                     "discharge": 3122.0,
                     "downstream_wse": null,
@@ -771,7 +771,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-3720.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-3720.tif",
                     "stage": null,
                     "discharge": 3720.0,
                     "downstream_wse": null,
@@ -780,7 +780,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-4318.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-4318.tif",
                     "stage": null,
                     "discharge": 4318.0,
                     "downstream_wse": null,
@@ -789,7 +789,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-5150.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-5150.tif",
                     "stage": null,
                     "discharge": 5150.0,
                     "downstream_wse": null,
@@ -798,7 +798,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-5987.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-5987.tif",
                     "stage": null,
                     "discharge": 5987.0,
                     "downstream_wse": null,
@@ -807,7 +807,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-6824.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-6824.tif",
                     "stage": null,
                     "discharge": 6824.0,
                     "downstream_wse": null,
@@ -816,7 +816,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-7661.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-7661.tif",
                     "stage": null,
                     "discharge": 7661.0,
                     "downstream_wse": null,
@@ -825,7 +825,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-8665.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-8665.tif",
                     "stage": null,
                     "discharge": 8665.0,
                     "downstream_wse": null,
@@ -834,7 +834,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-9540.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-9540.tif",
                     "stage": null,
                     "discharge": 9540.0,
                     "downstream_wse": null,
@@ -843,7 +843,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-10586.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-10586.tif",
                     "stage": null,
                     "discharge": 10586.0,
                     "downstream_wse": null,
@@ -852,7 +852,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-11835.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-11835.tif",
                     "stage": null,
                     "discharge": 11835.0,
                     "downstream_wse": null,
@@ -861,7 +861,7 @@
                 },
                 {
                     "vector_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-EXT-12700.shp",
-                    "raster_file": "",
+                    "raster_file": "https://raw.githubusercontent.com/Pitamberwagle/FIMstorage/main/447692/1-9-DEP-12700.tif",
                     "stage": null,
                     "discharge": 12700.0,
                     "downstream_wse": null,
